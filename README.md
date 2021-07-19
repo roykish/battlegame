@@ -1,4 +1,4 @@
-# battlegame
+# Battlegame
 
 This is a battle game developed using Java. Behind this game Java OOP concept has been emphesized.
 
